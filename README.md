@@ -4,7 +4,7 @@ This project is aimed at developing a drowsiness detection system using computer
 **Features** <br>
 Real-time detection of driver drowsiness using a webcam or video feed. <br>
 Facial landmark detection to track key features such as eyes and mouth. <br>
-Detection of indicators of drowsiness, such as eye closure and yawning. <br>
+Detection of indicators of drowsiness, such as eye closure. <br>
 Audio or visual alerts to notify the driver when drowsiness is detected. <br>
 Customizable alert thresholds and parameters for fine-tuning the system. <br>
 
